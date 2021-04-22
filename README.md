@@ -3,7 +3,7 @@
 
 ## Chapter 1
 
-- [1.2]
+- Listing [1.2] is `c2fi.rb`. 
 
 
 
