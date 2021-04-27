@@ -25,3 +25,7 @@
 [4.2]: examples/stack.rb
 
 [5.1]: examples/self.rb
+[5.2]: examples/self_person.rb
+
+
+[5.7]: examples/car.rb
