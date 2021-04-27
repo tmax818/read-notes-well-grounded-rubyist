@@ -160,7 +160,7 @@ puts "string_2's id is #{string_2.object_id}."
 ##=> string_2's id is 47095661996080.
 ~~~
 
-"Even though these two strings contain the same text, they aren’t, technically, the sameobject. If you printed them out, you’d see the same result both times ( "Hello" ). But the string objects themselves are different. It’s like having two copies of the same book: they contain the same text, but they aren’t the same thing as each other. You could destroy one, and the other would be unaffected."
+"Even though these two strings contain the same text, they aren’t, technically, the same object. If you printed them out, you’d see the same result both times ( "Hello" ). But the string objects themselves are different. It’s like having two copies of the same book: they contain the same text, but they aren’t the same thing as each other. You could destroy one, and the other would be unaffected."
 
 ### 2.3.2 Querying an object’s abilities with the respond_to? method
 
